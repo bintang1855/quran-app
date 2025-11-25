@@ -10,7 +10,7 @@ Aplikasi Al-Quran digital yang modern dan mudah digunakan, dibangun dengan Flutt
 
 Al-Quran App adalah aplikasi mobile yang memungkinkan Anda membaca dan mempelajari Al-Quran di mana saja dan kapan saja. Aplikasi ini dirancang dengan antarmuka yang bersih dan intuitif, mendukung mode terang dan gelap untuk kenyamanan mata Anda.Aplikasi Al-Quran digital yang modern dan mudah digunakan, dibangun dengan Flutter. Aplikasi ini menyediakan akses lengkap ke 114 surah Al-Quran dengan berbagai fitur yang memudahkan pengguna dalam membaca dan mempelajari Al-Quran.
 
-### Teknologi yang Digunakan## ✨ Fitur Utama
+### ✨ Teknologi yang Digunakan
 
 - **Flutter** - Framework untuk membuat aplikasi multiplatform### 📚 Konten Lengkap
 
