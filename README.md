@@ -1,4 +1,4 @@
-# 📖 Al-Quran App# 📖 Al-Quran App
+# 📖 Al-Quran App
 
 Aplikasi Al-Quran digital yang modern dan mudah digunakan, dibangun dengan Flutter. Aplikasi ini menyediakan akses lengkap ke 114 surah Al-Quran dengan berbagai fitur yang memudahkan pengguna dalam membaca dan mempelajari Al-Quran.
 
