@@ -28,7 +28,7 @@ Al-Quran App adalah aplikasi mobile yang memungkinkan Anda membaca dan mempelaja
 
 ## ✨ Fitur Utama- **Audio** - Dengarkan bacaan Al-Quran dari setiap ayat
 
-### 📚 Konten Lengkap### 🔍 Pencarian Cerdas
+### 📚 Konten Lengkap
 
 - **114 Surah Lengkap** dengan terjemahan Bahasa Indonesia
 
