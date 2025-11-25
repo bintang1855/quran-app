@@ -1,10 +1,12 @@
 # 📖 Al-Quran App# 📖 Al-Quran App
 
-Aplikasi Al-Quran digital yang modern dan mudah digunakan, dibangun dengan Flutter. Aplikasi ini menyediakan akses lengkap ke 114 surah Al-Quran dengan berbagai fitur yang memudahkan pengguna dalam membaca dan mempelajari Al-Quran.![Flutter](https://img.shields.io/badge/Flutter-3.0+-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+Aplikasi Al-Quran digital yang modern dan mudah digunakan, dibangun dengan Flutter. Aplikasi ini menyediakan akses lengkap ke 114 surah Al-Quran dengan berbagai fitur yang memudahkan pengguna dalam membaca dan mempelajari Al-Quran.
 
+![Flutter](https://img.shields.io/badge/Flutter-3.0+-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-3.0+-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
-## 📱 Tentang Aplikasi![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+## 📱 Tentang Aplikasi
 
 Al-Quran App adalah aplikasi mobile yang memungkinkan Anda membaca dan mempelajari Al-Quran di mana saja dan kapan saja. Aplikasi ini dirancang dengan antarmuka yang bersih dan intuitif, mendukung mode terang dan gelap untuk kenyamanan mata Anda.Aplikasi Al-Quran digital yang modern dan mudah digunakan, dibangun dengan Flutter. Aplikasi ini menyediakan akses lengkap ke 114 surah Al-Quran dengan berbagai fitur yang memudahkan pengguna dalam membaca dan mempelajari Al-Quran.
 
